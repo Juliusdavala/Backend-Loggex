@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'api-loggex-backend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E6C0500965A4481AE6FD3D19E7C21EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_028FDC4569E04AD0B9D63FE2015C286C }}
           package: .
